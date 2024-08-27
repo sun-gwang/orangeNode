@@ -55,9 +55,9 @@
 
 <br/>
 
-## 🎬 기능 시연
-### 1. 프로젝트
-[![시연영상](https://github.com/user-attachments/assets/6e9fbffc-89dd-4862-a9a9-eef583e58464)](https://www.youtube.com/watch?v=eYYFg6AiAhE)
+## 🎬 기능 시연(전체 기능)
+[![시연영상](https://github.com/user-attachments/assets/5d347e6e-1a8f-419f-81f3-f084b324ffeb)](https://www.youtube.com/watch?v=gtcjZfoFF2c)
+
 
 
 ## 🌟구현 기능
