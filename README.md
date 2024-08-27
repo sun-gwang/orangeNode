@@ -66,9 +66,6 @@
 <h3>
 <details>
   <summary>김선광 - 캘린더 / 고객센터</summary>
-  <h4> 기능 이미지 </h4>
-      <img src="https://github.com/user-attachments/assets/d1863581-49a5-44cb-8df0-c67a8b81028d" alt="캘린더" >
-  <br/>
   <h4>1. 캘린더 </h4>
   <ul>
   <li>일정 DB입력 구현</li>
@@ -83,13 +80,13 @@
   <li>내 문의 보기 기능구현</li>
   <li>관리자 문의 답변 기능구현</li>
   </ul>
+      <img src="https://github.com/user-attachments/assets/d1863581-49a5-44cb-8df0-c67a8b81028d" alt="캘린더" >
+  <br/>
 </details>
 </h3>
 <h3>
 <details>
   <summary>김형민 - 회원 / 프로젝트</summary>
-    <h4> 기능 이미지 </h4>
-    <img src="https://github.com/user-attachments/assets/f26afb8d-e5b7-4bdf-89a1-b59d295556aa" alt="프로젝트" >
     <h4>1. 회원 </h4>
     <ul>
     <li>회원가입 기능구현</li>
@@ -103,14 +100,13 @@
     <li>칸반 수정, 삭제 기능구현</li>
     <li>칸반 마우스로 이동 기능구현</li>
     </ul>
-    
+    <img src="https://github.com/user-attachments/assets/f26afb8d-e5b7-4bdf-89a1-b59d295556aa" alt="프로젝트" >
 </details>
 </h3>
 <h3>
 <details>
   <summary>정원구 - 관리자 / 메인</summary>
-  <h4> 기능 이미지 </h4>
-  <img src="https://github.com/user-attachments/assets/95264d43-17b4-4843-99f2-fceb98f47efd" alt="메인 화면" >
+  
   <h4>1. 메인 인덱스 </h4>
   <ul>
   <li>내 프로필 간단 보기 기능</li>
@@ -124,13 +120,13 @@
   <li>게시물 관리 기능</li>
   <li>회원 관리 기능</li>
   </ul>
+  <h4> 기능 이미지 </h4>
+  <img src="https://github.com/user-attachments/assets/95264d43-17b4-4843-99f2-fceb98f47efd" alt="메인 화면" >
 </details>
 </h3>
 <h3>
 <details>
   <summary>정태영 - 채팅 / 게시판</summary>
-    <h4> 기능 이미지 </h4>
-    <img src="https://github.com/user-attachments/assets/5c57fe5e-0b94-481d-b98e-f4329dbf4d95" alt="채팅" >
   <h4>1. 채팅 </h4>
   <ul>
   <li>채팅방 소켓 기능 구현</li>
@@ -146,25 +142,25 @@
   <li>게시물 수정, 삭제 기능</li>
   <li>댓글 기능 구현</li>
   </ul>
+    <img src="https://github.com/user-attachments/assets/5c57fe5e-0b94-481d-b98e-f4329dbf4d95" alt="채팅" >
 </details>
 </h3>
 <h3>
 <details>
   <summary>최이진 - 페이지(팀장)</summary>
-    <h4> 기능 이미지 </h4>
-    <img src="https://github.com/user-attachments/assets/d7c4b272-9e5e-450d-b790-908bb24a41e5" alt="채팅" >
   <h4>1. 팀장 </h4>
   <ul>
   <li>프론트 ,백엔드 배포 구현</li>
   <li>CORS 설정</li>
   </ul>
 
-  <h4>2. 페이지지</h4>
+  <h4>2. 페이지</h4>
   <ul>
   <li>페이지 소켓 기능구현</li>
   <li>페이지 새로 만들기 기능구현</li>
   <li>페이지 글 작성, 수정 기능구현</li>
   </ul>
+    <img src="https://github.com/user-attachments/assets/d7c4b272-9e5e-450d-b790-908bb24a41e5" alt="채팅" >
 </details>
 </h3>
 
