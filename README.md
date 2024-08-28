@@ -31,7 +31,9 @@
 > 
 > JPA
 > 
-> Mybatis  
+> Mybatis
+>
+> Restful API
 
 ### 3. DataBase
 > MySQL  
